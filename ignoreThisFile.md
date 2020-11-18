@@ -6,3 +6,8 @@ Hunnigan es un chatbot para Microsoft Teams que nos permite almacenar informaci�
 Hunnigan es una herramienta con implementación en Microsoft Team que tiene el propósito de apoyar con el aprendizaje a distancia brindando la opción de archivar todo tipo de texto en formato de notas o apuntes.
 
 Hunnigan es un AppBot para Microsoft teams que tendrá como función principal ser tu asistente personal en diversas actividades a las cuales este programada este Bot, como por ejemplo; anotaciones, recordatorios, calendarización y mucho mas.
+
+para clonar el proyecto usen:
+~~~
+git clone https://github.com/Antonio-Cituk/Hunnigan.git
+~~~
