@@ -31,7 +31,7 @@ C3P2 es un equipo escolar de chicos que estudian Ingeniería de Software en la [
 
 |[CL-Nayib](https://github.com/CL-Nayib)|[saulpalma26](https://github.com/saulpalma26)|[![](https://github.com/erikpsanchez.png?size=50)](https://github.com/erikpsanchez)|[![](https://github.com/Antonio-Cituk.png?size=50)](https://github.com/Antonio-Cituk)|[estecimo](https://github.com/estecimo)|
 |---|---|---|---|---|
-|<ul><li>Web Front-end 🖼</li><li>Graphic Designer 🎨</li></ul>|<ul><li>Web Front-end 🖼</li><li>Graphic Designer 🎨</li></ul>|<ul><li>Web Back-end 💻</li></ul>|<ul><li>Web Back-end 💻</li><li>Bot dev 🤖</li></ul>|<ul><li>Bot dev 🤖</li></ul>|
+|<ul><li>Front-end 🖼</li><li>Designer 🎨</li></ul>|<ul><li>Front-end 🖼</li><li>Designer 🎨</li></ul>|<ul><li>Back-end 💻</li></ul>|<ul><li>Back-end 💻</li><li>Bot dev 🤖</li></ul>|<ul><li>Bot dev 🤖</li></ul>|
 
 # ¿Cómo ayudo al proyecto?
 
