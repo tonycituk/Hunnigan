@@ -1,6 +1,6 @@
 # Hunnigan ✍🏼🤖
 
-Hunnigan es una herramienta tecnológica (APP/BOT) integrable a [Microsoft Teams](https://www.microsoft.com/es-mx/microsoft-365/microsoft-teams/group-chat-software) la cual te permite almacenar información como apuntes, recordatorios o cualquier información en forma de texto; además permite organizarla de una manera más rápida y eficiente, siendo estaz presentada de manera ubicua.
+Hunnigan es una herramienta tecnológica (APP/BOT) integrable a [Microsoft Teams](https://www.microsoft.com/es-mx/microsoft-365/microsoft-teams/group-chat-software) la cual te permite almacenar información como apuntes, recordatorios o cualquier información en forma de texto; además permite organizarla de una manera más rápida y eficiente, siendo esta presentada de manera ubicua.
 
 > Hunnigan es un proyecto escolar, te invitamos a [seguir el proyecto](https://github.com/user/repository/subscription) ⭐.
 
