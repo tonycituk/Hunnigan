@@ -28,7 +28,7 @@ Anexar las funciones de Hunnigan 🤠.
 
 # ¿Quién hizo Hunnigan?
 
-C3P2 es un equipo escolar de chicos que estudian Ingeniería de Software en la [Universidad Autónoma de Yucatán](https://www.uady.mx/). Aquí abajo puedes ver los roles.
+C3P2 es un equipo escolar de chicos que estudian Ingeniería de Software en la [Universidad Autónoma de Yucatán](https://www.uady.mx/). Aquí abajo puedes ver los roles y sus cuentas de github.
 
 |[CL-Nayib](https://github.com/CL-Nayib)|[saulpalma26](https://github.com/saulpalma26)|[![](https://github.com/erikpsanchez.png?size=50)](https://github.com/erikpsanchez)|[![](https://github.com/Antonio-Cituk.png?size=50)](https://github.com/Antonio-Cituk)|[estecimo](https://github.com/estecimo)|
 |---|---|---|---|---|
