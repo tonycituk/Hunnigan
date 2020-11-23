@@ -1,6 +1,6 @@
 ## Plan del proyecto
 
-#Hunnigan
+> Hunnigan
 
 Esta investigación tratará sobre un tema especificamente relacionado con el software, aquí veremos diferentes tipos de conceptos relacionados con la app/bot “Hunnigan”
 
@@ -12,7 +12,7 @@ Hunnigan es un bot conversacional de microsoft teams almacenada en la web para u
 
 •	¿Qué es un bot conversacional? Su definición es simple, es un bot el cual funciona mediante una conversación la cual dependiendo de las preguntas o textos ingresados, provea una respuesta de manera automática.
 
-#Recursos
+> Recursos
 
 ¿Qué recursos utilizaremos para la investigación?
 
