@@ -6,6 +6,7 @@ Aqui van los requerimientos
 -	Anotaciones unicamente en forma de texto
 - Almacenar y organizar información
 - Agregar/editar y eliminar información
+- Brindar información
 - Brindar un soporte al usuario 
 ## No funcionales
 -	Integrable a Microsoft Teams
