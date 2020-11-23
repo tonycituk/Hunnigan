@@ -2,11 +2,11 @@
 
 ## Funcionales
 -	Anotaciones unicamente en forma de texto
-- Almacenar y organizar información
 - Agregar/editar y eliminar información
+- Almacenar y organizar información
 - Brindar información
-- Brindar un soporte al usuario 
 - El bot proporcionará el link de la libreta web
+- Brindar un soporte al usuario 
 ## No funcionales
 -	Integrable a Microsoft Teams
 -	Accesible de manera ubicua (Por medio de internet)
