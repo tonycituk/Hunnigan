@@ -2,7 +2,6 @@
 
 ## Funcionales
 -	Anotaciones unicamente en forma de texto
-- Agregar/editar y eliminar información
 - El bot agregará la información que se introduzca y la almacenará en su base de datos
 - Almacenar y organizar información
 - Brindar información
