@@ -4,4 +4,4 @@
 - Casos de uso
 - Arquitectura del proyecto
 - Materiales
-- [Regresar al inicio](../README.md)
+- [Regresar al inicio](../.)
