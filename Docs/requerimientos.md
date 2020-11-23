@@ -1,6 +1,4 @@
 # Requerimientos
-Aqui van los requerimientos
-
 
 ## Funcionales
 -	Anotaciones unicamente en forma de texto
