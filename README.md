@@ -15,7 +15,8 @@ Anexar usuarios meta 🤠.
 
 # Plan del proyecto
 
-Anexar el plan del proyecto y las fechas importantes 🤠.
+> [Quiero ver el plan del proyecto.](./Docs/PlanP.md)
+
 
 
 > Se prevee que la primera versión estará disponible el 9 de Enero del 2021, [sigue el proyecto](https://github.com/Antonio-Cituk/Hunnigan/subscription) para no perder ninguna noticia.
