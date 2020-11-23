@@ -8,6 +8,7 @@ Aqui van los requerimientos
 - Agregar/editar y eliminar información
 - Brindar información
 - Brindar un soporte al usuario 
+- El bot proporcionará el link de la libreta web
 ## No funcionales
 -	Integrable a Microsoft Teams
 -	Accesible de manera ubicua (Por medio de internet)
