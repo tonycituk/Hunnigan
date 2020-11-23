@@ -2,7 +2,7 @@
 
 ## Funcionales
 -	Anotaciones unicamente en forma de texto
-- El bot agregará la información que se le introduzca, esta debe de ser en forma de texto y la almacenará en su base de datos
+- El bot agregará la información que se le introduzca, esta debe de ser en forma de texto.
 - Almacenar y organizar información
 - Brindar información
 - El bot proporcionará el link de la libreta web
