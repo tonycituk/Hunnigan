@@ -13,7 +13,7 @@ El objetivo de Hunnigan es apoyar con el aprendizaje a distancia... terminar ðŸ¤
 Anexar usuarios meta ðŸ¤ .
  -- Profesores y estudiantes que utilicen Microsoft Teams para llevar a cabo clases o reuniones academicas.
 
-# Plan del proyecto
+# Proceso de desarrollo 
 
 > [Quiero ver el plan del proyecto.](./Docs/PlanP.md)
 
