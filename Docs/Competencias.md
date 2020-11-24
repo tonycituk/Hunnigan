@@ -1,0 +1,1 @@
+# Competencias de la asignatura 
