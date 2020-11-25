@@ -1,4 +1,4 @@
-## Plan del proyecto
+# Plan del proyecto
 
 > Hunnigan
 
@@ -12,7 +12,7 @@ Hunnigan es un bot conversacional de microsoft teams almacenada en la web para u
 
 •	¿Qué es un bot conversacional? Su definición es simple, es un bot el cual funciona mediante una conversación la cual dependiendo de las preguntas o textos ingresados, provea una respuesta de manera automática.
 
-> Calendario de actividades
+## Calendario de actividades
 
 - [ ] Planeación (24/10/2020-28/11/2020)
 
