@@ -6,9 +6,6 @@ Hunnigan es una herramienta la cual te permite almacenar información como apunt
 
 > [Quiero conocer los requerimientos.](./Docs/requerimientos.md)
 
-# Proceso de desarrollo 
-
-> [Quiero ver el plan del proyecto.](./Docs/PlanP.md)
 
 # Conoce al equipo
 
