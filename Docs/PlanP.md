@@ -14,7 +14,7 @@ Hunnigan es un bot conversacional de microsoft teams almacenada en la web para u
 
 > Recursos
 
-Aquí pondremos los recursos.
+[Aquí pondremos los recursos]
 
 
 > Calendario de actividades
