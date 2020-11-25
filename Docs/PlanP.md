@@ -14,7 +14,20 @@ Hunnigan es un bot conversacional de microsoft teams almacenada en la web para u
 
 > Recursos
 
-¿Qué recursos utilizaremos para la investigación?
+Aquí pondremos los recursos.
 
+
+> Calendario de actividades
+
+-Planeación (24/10/2020-28/11/2020)
+-Desarrollo (21/11/2020-13/01/2021)
+-Sprint Piloto (24/10/2020-31/10/2020)
+-Sprint 01 (31/10/2020-14/11/2020)
+-Sprint 02 (14/11/2020-28/11/2020)
+-Sprint 03 (28/11/2020-12/12/2020)
+-Sprint 04 (12/12/2020-09/01/2021)
+-Review and NextSteps (09/01/2021-13/01/2021)
+-Beta1 (18/12/2020)
+-Release (09/01/2021)
 
 
