@@ -24,6 +24,6 @@ Hunnigan es un bot conversacional de microsoft teams almacenada en la web para u
 - [ ] Sprint 04 (12/12/2020-09/01/2021)
 - [ ] Review and NextSteps (09/01/2021-13/01/2021)
 - [ ] Beta1 (18/12/2020)
-- [ ]Release (09/01/2021)
+- [ ] Release (09/01/2021)
 
 
