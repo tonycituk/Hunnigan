@@ -14,13 +14,17 @@ Hunnigan es un bot conversacional de microsoft teams almacenada en la web para u
 
 ## Calendario de actividades
 
-- [ ] Planeación (24/10/2020-28/11/2020)
+########### Que se espera hacer de cada sprint
 
+- [ ] Planeación (24/10/2020-28/11/2020)
 - [ ] Desarrollo (21/11/2020-13/01/2021)
 - [ ] Sprint Piloto (24/10/2020-31/10/2020)
 - [ ] Sprint 01 (31/10/2020-14/11/2020)
 - [ ] Sprint 02 (14/11/2020-28/11/2020)
 - [ ] Sprint 03 (28/11/2020-12/12/2020)
+- El BOT deberá de agregar y organizar la información que haya sido ingresada, la cual deberá de estar en forma de texto.
+- El BOT tendrá que proporcionar la información que haya sido consultada por el usuario.
+- La WebApp, a través de un formulario, se le permitirá al usuario visualizar y agregar información.
 - [ ] Sprint 04 (12/12/2020-09/01/2021)
 - [ ] Review and NextSteps (09/01/2021-13/01/2021)
 - [ ] Beta1 (18/12/2020)
