@@ -26,6 +26,9 @@ Hunnigan es un bot conversacional de microsoft teams almacenada en la web para u
 - El BOT tendrá que proporcionar la información que haya sido consultada por el usuario.
 - La WebApp, a través de un formulario, se le permitirá al usuario visualizar y agregar información.
 - [ ] Sprint 04 (12/12/2020-09/01/2021)
+- La WebApp le permitirá al usuario editar y eliminar la información anteriormente introducida.
+- El BOT proporcionará un punto de acceso web de la libreta en línea al momento de haber sido solicitado por el usuario.
+- Dentro del contenido de la WebApp estará una sección de FAQ's (preguntas frecuentes) las cuales servirán para poder brindarle soporte al usuario.
 - [ ] Review and NextSteps (09/01/2021-13/01/2021)
 - [ ] Beta1 (18/12/2020)
 - [ ] Release (09/01/2021)
