@@ -19,9 +19,11 @@ Hunnigan es un bot conversacional de microsoft teams almacenada en la web para u
 - [ ] Planeación (24/10/2020-28/11/2020)
 - [ ] Desarrollo (21/11/2020-13/01/2021)
 - [ ] Sprint Piloto (24/10/2020-31/10/2020)
-- El equipo seleccionará el medio por el cual se comunicarán, también se hará la elección del nombre del equipo a su vez que se determinarán los días y horario para los futuros meetings.
+- El equipo seleccionará el medio por el cual se comunicarán, también se hará la elección del nombre del equipo, del producto, se determinarán los roles y los días y horario para los futuros meetings, a su vez que se realizarán investigaciones sobre conocimientos previos en relación al producto.
 - [ ] Sprint 01 (31/10/2020-14/11/2020)
+- Se realizarán diversas investigaciones sobre como llevar a cabo el desarrollo del bot como de la web usando maquetas así como también sobre temas relacionados para la creación de un logo y se creará el repositorio de Github para llevar a cabo la documentación del producto.
 - [ ] Sprint 02 (14/11/2020-28/11/2020)
+- Se llevarán a cabo diferentes versiones de la repo-card y el diseño del logo, así como también se realizará un mockup de la web,también se llevará a cabo la forma en la que el bot se presentará (un saludo) y se generará una imagen sobre como funcionará la arquitectura del producto.
 - [ ] Sprint 03 (28/11/2020-12/12/2020)
 - Se deberá de agregar y organizar la información que haya sido ingresada, la cual deberá de estar en forma de texto, a la vez que se le será proporcionada la información que haya sido consultada por el usuario, también, a través de un formulario, se le deberá permitir visualizar y agregar información.
 - [ ] Sprint 04 (12/12/2020-09/01/2021)
