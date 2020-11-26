@@ -18,6 +18,9 @@
   - Elegimos un nombre para el bot
   - Hablamos sobre el diseño del software
 - **14 de noviembre - Inicio sprint 02 + Calificación individual**
+  - Hablamos sobre las actividades del sprint 02 y se explicó que se hace en cada una
+  - Se asignaron actividades
+  - Establecimos una manera para determinar la calificación individual
 - **16 de noviembre - Retroalimentación 03 + Revisión de actividades vencidas**
 > - **19 de noviembre - Revisión de plan de proyecto + Ideas para la documentación**
 > - **19 de noviembre - Bot deploy a Azure** 
