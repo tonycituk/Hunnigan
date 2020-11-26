@@ -16,7 +16,7 @@
   - Se decidió que productos entregar y cuando
 ***
  ![Imagen](3.png)  
-  - **02 de noviembre - Retroalimentación 01**
+- **02 de noviembre - Retroalimentación 01**
   - Comentamos dificultades o pequeños progresos en cuanto a las actividades que teníamos asignadas
   - Realizamos prácticas con Git y GitHub
 ***
