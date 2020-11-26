@@ -12,8 +12,9 @@
   - Las actividades de este sprint se encofaban en investigaciones
 - **01 de noviembre - Análisis del desarrollo del BOT**
   - Se decidió que productos entregar y cuando
- ![Imagen](3.png)
-- **02 de noviembre - Retroalimentación 01**
+ ![Imagen](3.png)  
+ 
+  - **02 de noviembre - Retroalimentación 01**
   - Comentamos dificultades o pequeños progresos en cuanto a las actividades que teníamos asignadas
   - Realizamos prácticas con Git y GitHub
 - **02 de noviembre - Análisis del desarrollo web**
