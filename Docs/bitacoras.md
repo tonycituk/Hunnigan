@@ -1,6 +1,5 @@
 # Bitácoras  
 
-![Imagen](https://drive.google.com/file/d/14k2iprPKgyZAmmcC7UBP-yrJd5sPe5gz/view?usp=sharing)
 - **26 de octubre - Presentación de ideas**
   - Realizamos una lluvia de ideas para definir lo que haremos en el proyecto
   - Decidimos realizar un bot integrable a Microsoft Teams junto a una webapp
@@ -35,6 +34,7 @@
   - Se asignaron actividades
   - Establecimos una manera para determinar la calificación individual
 ***
+![Imagen](3.png)  
 - **16 de noviembre - Retroalimentación 03 + Revisión de actividades vencidas**
   - Comentamos sobre nuestras dificultades y dudas en cuanto a las actividades asignadas 
   - Revisamos actividades venciadas
