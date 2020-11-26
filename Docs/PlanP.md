@@ -17,7 +17,11 @@ Hunnigan es un bot conversacional de microsoft teams almacenada en la web para u
 ########### Que se espera hacer de cada sprint
 
 - [ ] Planeación (24/10/2020-28/11/2020)
+- Durante estos días se llevará a cabo la planeación del producto, desde como empezaremos la elaboración hasta la implementación de nuevas ideas ofrecidas por el equipo para así poder así poder tener un sistema organizado y eficiente.
+
 - [ ] Desarrollo (21/11/2020-13/01/2021)
+- Durante todo este periodo de tiempo se llevará a cabo la elaboración del proyecto hasta poder llegar a su conclusión y obtener un producto final.
+
 - [ ] Sprint Piloto (24/10/2020-31/10/2020)
 - El equipo seleccionará el medio por el cual se comunicarán, también se hará la elección del nombre del equipo, del producto, se determinarán los roles y los días y horario para los futuros meetings, a su vez que se realizarán investigaciones sobre conocimientos previos en relación al producto.
 
