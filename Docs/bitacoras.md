@@ -1,8 +1,8 @@
 # Bitácoras  
- ![Imagen](1.png)
- ![Imagen](2.png)  
- ![Imagen](3.png) 
- ![Imagen](4.png) 
+ ![Imagen](Materiales/1.png)
+ ![Imagen](Materiales/2.png)  
+ ![Imagen](Materiales/3.png) 
+ ![Imagen](Materiales/4.png) 
  
  ***
  
@@ -21,7 +21,7 @@
 - **01 de noviembre - Análisis del desarrollo del BOT**
   - Se decidió que productos entregar y cuando
 ***
- ![Imagen](3.png)  
+ ![Imagen](Materiales/3.png)  
 - **02 de noviembre - Retroalimentación 01**
   - Comentamos dificultades o pequeños progresos en cuanto a las actividades que teníamos asignadas
   - Realizamos prácticas con Git y GitHub
@@ -32,7 +32,7 @@
 - **07 de noviembre - Avances y nuevas actividades del sprint 01**
   - Hicimos entregas de las actividades asignadas al inicio del sprint 01
 ***
-![Imagen](3.png)  
+![Imagen](Materiales/3.png)  
 - **09 de noviembre - Retroalimentación 02 + Repaso diseño de software**
   - Elegimos un nombre para el bot
   - Hablamos sobre el diseño del software
@@ -42,7 +42,7 @@
   - Se asignaron actividades
   - Establecimos una manera para determinar la calificación individual
 ***
-![Imagen](3.png)  
+![Imagen](Materiales/3.png)  
 - **16 de noviembre - Retroalimentación 03 + Revisión de actividades vencidas**
   - Comentamos sobre nuestras dificultades y dudas en cuanto a las actividades asignadas 
   - Revisamos actividades venciadas
@@ -58,7 +58,7 @@
   - Revisamos las actividades asignadas del sprint 02 
   - Se entregó el servidor de peticiones, avances en el bot, mockups de la página web y diseños de logos
 ***
-![Imagen](3.png)  
+![Imagen](Materiales/3.png)  
 - **23 de noviembre - Retroalimentación 04 + Requerimientos... Una vez más**
   - Redactamos los requerimientos funcionales y no funcionales
 ***
