@@ -35,7 +35,7 @@
 - **21 de noviembre - Revisando avances, requerimientos y nuevas actividades**
   - Revisamos las actividades asignadas del sprint 02 
   - Se entregó el servidor de peticiones, avances en el bot, mockups de la página web y diseños de logos
-- 💻**23 de noviembre - Retroalimentación 04 + Requerimientos... Una vez más**
+- `23 de noviembre - Retroalimentación 04 + Requerimientos... Una vez más`
   - Redactamos los requerimientos funcionales y no funcionales
 - **23 de noviembre - Se viene el 0**
   - Calificamos nuestros avances de acuerdo a la hoja de cotejo
