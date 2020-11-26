@@ -14,8 +14,6 @@ Hunnigan es un bot conversacional de microsoft teams almacenada en la web para u
 
 ## Calendario de actividades
 
-########### Que se espera hacer de cada sprint
-
 - [ ] Planeación (24/10/2020-28/11/2020)
 - Durante estos días se llevará a cabo la planeación del producto, desde como empezaremos la elaboración hasta la implementación de nuevas ideas ofrecidas por el equipo para así poder así poder tener un sistema organizado y eficiente.
 
