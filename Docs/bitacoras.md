@@ -25,6 +25,7 @@
 > - **19 de noviembre - Revisión de plan de proyecto + Ideas para la documentación**
 > - **19 de noviembre - Bot deploy a Azure** 
 - **20 de noviembre - Revisando actividades + Charla**  
+  - Creamos nuevas ramas en el repositorio y subimos archivos
 - **21 de noviembre - Revisando avances, requerimientos y nuevas actividades**
   - Revisamos las actividades asignadas del sprint 02 
   - Se entregó el servidor de peticiones, avances en el bot, mockups de la página web y diseños de logos
