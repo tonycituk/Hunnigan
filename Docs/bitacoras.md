@@ -11,7 +11,7 @@
   - Las actividades de este sprint se encofaban en investigaciones
 > - **01 de noviembre - Análisis del desarrollo del BOT**
 - **02 de noviembre - Retroalimentación 01**
-  - Comentabamos dificultades o pequeños progresos en cuanto a las actividades que teníamos asignadas
+  - Comentamos dificultades o pequeños progresos en cuanto a las actividades que teníamos asignadas
   - Realizamos prácticas con Git y GitHub
 > - **02 de noviembre - Análisis del desarrollo web**
 - **07 de noviembre - Avances y nuevas actividades del sprint 01**
@@ -24,6 +24,8 @@
   - Se asignaron actividades
   - Establecimos una manera para determinar la calificación individual
 - **16 de noviembre - Retroalimentación 03 + Revisión de actividades vencidas**
+  - Comentamos sobre nuestras dificultades y dudas en cuanto a las actividades asignadas 
+  - Revisamos actividades venciadas
 > - **19 de noviembre - Revisión de plan de proyecto + Ideas para la documentación**
 > - **19 de noviembre - Bot deploy a Azure** 
 - **20 de noviembre - Revisando actividades + Charla**  
@@ -35,7 +37,7 @@
   - Redactamos los requerimientos funcionales y no funcionales
 - **23 de noviembre - Se viene el 0**
   - Calificamos nuestros avances de acuerdo a la hoja de cotejo
-  - Identificamos lo que nos hace falta para poder mejorar esa calificación
+  - Identificamos lo aspectos que nos hace falta para poder mejorar nuestra calificación
 > - **23 de noviembre - ¿Ajustes?**
 - **23 de noviembre - Reunión con el Mentor: Preguntas y avances**
   - Hicimos preguntas de las dudas que teníamos sobre el proyecto
