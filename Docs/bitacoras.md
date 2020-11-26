@@ -5,20 +5,24 @@
   - Realizamos una lluvia de ideas para definir lo que haremos en el proyecto
   - Decidimos realizar un bot integrable a Microsoft Teams junto a una webapp
   - Acordamos investigar herramientas que nos ayuden a realizar el proyecto
+***
 - **31 de octubre - Selección del nombre + Despedida del sprint piloto + Inicio sprint 01**
   - Finalizamos con el sprint piloto 
   - Hablamos sobre las actividades del sprint 01 y se explicó que se hace en cada una
   - Se asignaron actividades 
   - Las actividades de este sprint se encofaban en investigaciones
+***
 - **01 de noviembre - Análisis del desarrollo del BOT**
   - Se decidió que productos entregar y cuando
-  ***
+***
  ![Imagen](3.png)  
   - **02 de noviembre - Retroalimentación 01**
   - Comentamos dificultades o pequeños progresos en cuanto a las actividades que teníamos asignadas
   - Realizamos prácticas con Git y GitHub
+***
 - **02 de noviembre - Análisis del desarrollo web**
   - Se decidió que productos entregar y cuando
+***
 - **07 de noviembre - Avances y nuevas actividades del sprint 01**
   - Hicimos entregas de las actividades asignadas al inicio del sprint 01
 - **09 de noviembre - Retroalimentación 02 + Repaso diseño de software**
