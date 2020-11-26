@@ -14,6 +14,7 @@
   - Realizamos prácticas con Git y GitHub
 > - **02 de noviembre - Análisis del desarrollo web**
 - **07 de noviembre - Avances y nuevas actividades del sprint 01**
+  - Hicimos entregas de las actividades asignadas al inicio del sprint 01
 - **09 de noviembre - Retroalimentación 02 + Repaso diseño de software**
   - Elegimos un nombre para el bot
   - Hablamos sobre el diseño del software
