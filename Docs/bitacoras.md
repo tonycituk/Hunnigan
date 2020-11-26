@@ -1,9 +1,13 @@
 # Bitácoras  
 
-- 26 de octubre - Presentación de ideas
+- **26 de octubre - Presentación de ideas**
+  - Realizamos una lluvia de ideas para definir lo que haremos en el proyecto
+  - Decidimos realizar un bot integrable con Microsoft Teams junto a una página web
+  - Acordamos investigar herramientas 
 - 31 de octubre - Selección del nombre + Despedida del sprint piloto + Inicio sprint 01
 - 01 de noviembre - Análisis del desarrollo del BOT
 - 02 de noviembre - Retroalimentación 01
+  - Realizamos prácticas con Git y GitHub
 - 02 de noviembre - Análisis del desarrollo web
 - 07 de noviembre - Avances y nuevas actividades del sprint 01
 - 09 de noviembre - Retroalimentación 02 + Repaso diseño de software
