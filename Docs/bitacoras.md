@@ -32,6 +32,8 @@
 - **23 de noviembre - Retroalimentación 04 + Requerimientos... Una vez más**
   - Redactamos los requerimientos funcionales y no funcionales
 - **23 de noviembre - Se viene el 0**
+  - Calificamos nuestros avances de acuerdo a la lista de cotejo
+  - Identidicamos lo que nos hace falta para poder mejorar esa calificación
 > - **23 de noviembre - ¿Ajustes?**
 - **23 de noviembre - Reunión con el Mentor: Preguntas y avances**
   - Hicimos preguntas de las dudas que teníamos sobre el proyecto
