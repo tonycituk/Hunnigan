@@ -16,4 +16,6 @@
 - 23 de noviembre - Retroalimentación 04 + Requerimientos... Una vez más
 - 23 de noviembre - Se viene el 0
 - 23 de noviembre - ¿Ajustes?
-- 23 de noviembre - Reunión con el Mentor: Preguntas y avances.
+- 23 de noviembre - Reunión con el Mentor: Preguntas y avances
+  - Hicimos preguntas de las dudas que teníamos sobre el proyecto
+  - Creamos ramas para cada integrante del equipo
