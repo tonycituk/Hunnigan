@@ -25,6 +25,7 @@
 - **07 de noviembre - Avances y nuevas actividades del sprint 01**
   - Hicimos entregas de las actividades asignadas al inicio del sprint 01
 ***
+![Imagen](3.png)  
 - **09 de noviembre - Retroalimentación 02 + Repaso diseño de software**
   - Elegimos un nombre para el bot
   - Hablamos sobre el diseño del software
