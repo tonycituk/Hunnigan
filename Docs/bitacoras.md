@@ -9,7 +9,7 @@
   - Hablamos sobre las actividades del sprint 01 y se explicó que se hace en cada una
   - Se asignaron actividades 
   - Las actividades de este sprint se encofaban en investigaciones
-- **01 de noviembre - Análisis del desarrollo del BOT**
+- > **01 de noviembre - Análisis del desarrollo del BOT**
 - **02 de noviembre - Retroalimentación 01**
   - Realizamos prácticas con Git y GitHub
 - **02 de noviembre - Análisis del desarrollo web**
@@ -22,10 +22,7 @@
 - **19 de noviembre - Revisión de plan de proyecto + Ideas para la documentación**
 - **19 de noviembre - Bot deploy a Azure** 
 - **20 de noviembre - Revisando actividades + Charla**  
-
 - **21 de noviembre - Revisando avances, requerimientos y nuevas actividades**
-  
-  
 - **23 de noviembre - Retroalimentación 04 + Requerimientos... Una vez más**
   - Redactamos los requerimientos funcionales y no funcionales
 - **23 de noviembre - Se viene el 0**
