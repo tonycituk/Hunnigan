@@ -12,7 +12,7 @@
 - > **01 de noviembre - Análisis del desarrollo del BOT**
 - **02 de noviembre - Retroalimentación 01**
   - Realizamos prácticas con Git y GitHub
-- > 02 de noviembre - Análisis del desarrollo web
+- > **02 de noviembre - Análisis del desarrollo web**
 - **07 de noviembre - Avances y nuevas actividades del sprint 01**
 - **09 de noviembre - Retroalimentación 02 + Repaso diseño de software**
   - Elegimos un nombre para el bot
