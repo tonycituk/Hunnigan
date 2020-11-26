@@ -1,4 +1,5 @@
 # Bitácoras  
+ ![Imagen](1.png)  
 
 - **26 de octubre - Presentación de ideas**
   - Realizamos una lluvia de ideas para definir lo que haremos en el proyecto
