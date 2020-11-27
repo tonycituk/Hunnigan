@@ -38,7 +38,7 @@
   - Se asignaron actividades
   - Establecimos una manera para determinar la calificación individual
 ***
-![Imagen](Materiales/3.png)  
+![Imagen](Materiales/3.png) ![Imagen](Materiales/2.png)   
 - **16 de noviembre - Retroalimentación 03 + Revisión de actividades vencidas**
   - Comentamos sobre nuestras dificultades y dudas en cuanto a las actividades asignadas 
   - Revisamos actividades venciadas
