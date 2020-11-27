@@ -1,15 +1,11 @@
 # Bitácoras  
- ![Imagen](Materiales/1.png)
- ![Imagen](Materiales/4.png) 
- 
- ***
- 
+
 - **26 de octubre - Presentación de ideas**
   - Realizamos una lluvia de ideas para definir lo que haremos en el proyecto
   - Decidimos realizar un bot integrable a Microsoft Teams junto a una webapp
   - Acordamos investigar herramientas que nos ayuden a realizar el proyecto
 ***
- ![Imagen](Materiales/2.png)  
+ ![Imagen](Materiales/2.png) ![Imagen](Materiales/1.png)  ![Imagen](Materiales/4.png)   
 - **31 de octubre - Selección del nombre + Despedida del sprint piloto + Inicio sprint 01**
   - Finalizamos con el sprint piloto 
   - Hablamos sobre las actividades del sprint 01 y se explicó que se hace en cada una
@@ -27,7 +23,7 @@
 - **02 de noviembre - Análisis del desarrollo web**
   - Se decidió que productos entregar y cuando
 ***
-![Imagen](Materiales/2.png)  
+![Imagen](Materiales/2.png) ![Imagen](Materiales/1.png)  
 - **07 de noviembre - Avances y nuevas actividades del sprint 01**
   - Hicimos entregas de las actividades asignadas al inicio del sprint 01
 ***
@@ -36,7 +32,7 @@
   - Elegimos un nombre para el bot
   - Hablamos sobre el diseño del software
 ***
-![Imagen](Materiales/2.png)  
+![Imagen](Materiales/2.png)  ![Imagen](Materiales/4.png)    
 - **14 de noviembre - Inicio sprint 02 + Calificación individual**
   - Hablamos sobre las actividades del sprint 02 y se explicó que se hace en cada una
   - Se asignaron actividades
