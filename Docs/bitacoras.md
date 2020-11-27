@@ -1,11 +1,9 @@
 # Bitácoras  
  ![Imagen](Materiales/1.png)
- ![Imagen](Materiales/3.png) 
  ![Imagen](Materiales/4.png) 
  
  ***
  
-
 - **26 de octubre - Presentación de ideas**
   - Realizamos una lluvia de ideas para definir lo que haremos en el proyecto
   - Decidimos realizar un bot integrable a Microsoft Teams junto a una webapp
@@ -72,7 +70,7 @@
 > - **23 de noviembre - ¿Ajustes?**
 ***
 - **23 de noviembre - Reunión con el Mentor: Preguntas y avances**
-  - Hicimos preguntas de las dudas que teníamos sobre el proyecto
-  - Hicimos modificaciones en el repositorio. 
-  - Dejamos en el REAME la documentación que ya está completa
+  - Hicimos preguntas al mentor sobre de las dudas que teníamos del proyecto
+  - Realizamos modificaciones en el repositorio. 
+  - Dejamos en el README solo la documentación que ya está completa
   - Creamos ramas para cada integrante del equipo
