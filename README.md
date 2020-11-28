@@ -6,6 +6,10 @@ Hunnigan es una herramienta la cual te permite almacenar información como apunt
 
 > [Quiero conocer los requerimientos.](./Docs/requerimientos.md)
 
+# Principales funciones de Hunnigan
+
+Hunnigan nos permite almacenar y administrar información como anotaciones en forma de texto. También nos da la posibilidad de consultar la información almacenada previamente mediante el Bot y además nos brinda un punto de acceso web a la libreta de anotaciones en donde podemos editar y eliminar dicha información.
+
 # Conoce al equipo
 
 C3P2 es un equipo escolar que estudia Ingeniería de Software en la [Universidad Autónoma de Yucatán](https://www.uady.mx/). Aquí abajo puedes ver los roles y sus cuentas de github.
