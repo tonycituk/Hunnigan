@@ -5,7 +5,8 @@ Hunnigan es una herramienta la cual te permite almacenar información como apunt
 > Hunnigan es un proyecto escolar, te invitamos a [seguir el proyecto](https://github.com/Antonio-Cituk/Hunnigan/subscription) ⭐.
 
 > [Quiero conocer los requerimientos.](./Docs/requerimientos.md)
-
+## ¿Para quién es?
+Hunnigan es para el estudiante o profesor que usa Microsoft teams como principal herramienta de comunicación escolar, que necesita tomar apuntes de una manera más eficiente y compartirlos de una manera más sencilla.
 # Conoce al equipo
 
 C3P2 es un equipo escolar que estudia Ingeniería de Software en la [Universidad Autónoma de Yucatán](https://www.uady.mx/). Aquí abajo puedes ver los roles y sus cuentas de github.
