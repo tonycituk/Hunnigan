@@ -24,6 +24,6 @@ El proceso con el que gestionamos el avance y las actividades correspondientes a
 
 C3P2 es un equipo escolar que estudia Ingeniería de Software en la [Universidad Autónoma de Yucatán](https://www.uady.mx/). Aquí abajo puedes ver los roles y sus cuentas de github.
 
-|[![](https://github.com/CL-Nayib.png?size=50)](https://github.com/CL-Nayib)|[![](https://github.com/saulpalma26.png?size=50)](https://github.com/saulpalma26)|[![](https://github.com/erikpsanchez.png?size=50)](https://github.com/erikpsanchez)|[![](https://github.com/Antonio-Cituk.png?size=50)](https://github.com/Antonio-Cituk)|[estecimo](https://github.com/estecimo)|
+|[![](https://github.com/CL-Nayib.png?size=50)](https://github.com/CL-Nayib)|[![](https://github.com/saulpalma26.png?size=50)](https://github.com/saulpalma26)|[![](https://github.com/erikpsanchez.png?size=50)](https://github.com/erikpsanchez)|[![](https://github.com/Antonio-Cituk.png?size=50)](https://github.com/Antonio-Cituk)|[![](https://github.com/estecimo.png?size=50)](https://github.com/estecimo)|
 |---|---|---|---|---|
 |<ul><li>Front-end 🖼</li><li>Designer 🎨</li></ul>|<ul><li>Front-end 🖼</li><li>Designer 🎨</li></ul>|<ul><li>Back-end 💻</li></ul>|<ul><li>Back-end 💻</li><li>Bot dev 🤖</li></ul>|<ul><li>Bot dev 🤖</li></ul>|
