@@ -1,4 +1,4 @@
-> Hunnigan
+# Investigación documental
 
 Esta investigación tratará sobre un tema especificamente relacionado con el software, aquí veremos diferentes tipos de conceptos relacionados con la app/bot “Hunnigan”
 
