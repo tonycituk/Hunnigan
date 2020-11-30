@@ -2,7 +2,7 @@
 
 ## Plan del proyecto
 
-### Reumen
+### Resumen
 El plan del proyecto inicia desde la [investigacion](./investigacion.md) del posible producto hasta la 1era versión del mismo. Esta dividade en 2 categorías Planeación y Desarrollo que cuenntan con un total de 4 sprints con sus respectivas actividades.
 
 ### Calendario de actividades
