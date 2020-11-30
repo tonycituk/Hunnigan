@@ -2,3 +2,4 @@
 
 - [Requerimientos](./requerimientos.md)
 - [Regresar al inicio](https://github.com/Antonio-Cituk/Hunnigan)
+- [Herramientas.md](./Herramientas.md)
