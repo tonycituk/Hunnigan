@@ -35,5 +35,5 @@ El plan del proyecto inicia desde la [investigacion](./investigacion.md) del pos
 - Se realizará la implementación a teams, se llevará a cabo el servicio de hosting con firebase y se almacenará con heroku, a su vez que se realizarán sus respectivas pruebas.
 
 - [ ] Release (09/01/2021)
-- Se realizaran los primeros 3 puntos redactados en la Beta1, se dará a cabo el lanzamiento oficial del bot y finalmente, nuestro equipo de trabajo llorará descontroladamente debido al fracaso del proyecto para posteriormente atentar contra nuestras propias vidas y darles un fin.
+- Se realizaran los primeros 3 puntos redactados en la Beta1 y se dará a cabo el lanzamiento oficial de la primera version del bot.
 
