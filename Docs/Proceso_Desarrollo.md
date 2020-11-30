@@ -12,7 +12,7 @@ Un incremento de producto es la suma de los resultados obtenidos durante el spri
 
 Para llevar a cabo el proceso antes menciona es importante definir cierto roles que en conjunto formarán un equipo **multifuncional**.
 
-![Roles](./Materiales/role.png)
+![Roles](./Materiales/roles.png)
 
 - **Product Owner:** Se encarga de hacer un vínculo con el cliente y definir requerimientos adecuadamente que satisfagan las necesidades del cliente. [Esteban Cimé](https://github.com/estecimo)
 - **Scrum Master:** Monitorea los avances, genera feedbak para el equipo, aumenta lo productividad del mismo y revisa el progreso continuo del proyecto. [Tony Cituk](https://github.com/Antonio-Cituk)
