@@ -1,18 +1,11 @@
-# Plan del proyecto
+# Proceso de Desarrollo
 
-> Hunnigan
+## Plan del proyecto
 
-Esta investigación tratará sobre un tema especificamente relacionado con el software, aquí veremos diferentes tipos de conceptos relacionados con la app/bot “Hunnigan”
+### Resúmen
+El plan del proyecto inicia desde la [investigacion](./investigacion.md) del posible producto hasta la 1era versión del mismo. Está dividida en 2 categorías "Planeación" y "Desarrollo" que cuentan con un total de 4 sprints con sus respectivas actividades.
 
-Hunnigan es un bot conversacional de microsoft teams almacenada en la web para un uso escolar y/o didáctico. En primer lugar tenemos que entender estos conceptos:
-
-•	¿Qué es una WEB? Una web, de manera resumida, es una pagina digital en la cual se puede almacenar distintos tipos de datos, ya sean imágenes, texto, videos, enlaces, etc.
-
-•	¿Qué es un bot? Un bot es un programa informático que puede ser usado en otra plataforma (ya sea web o incluso dentro de otro programa) el cual su funcion es la de hacer tareas automáticas a traves de comandos que lo obliguen a realizar una función específica.
-
-•	¿Qué es un bot conversacional? Su definición es simple, es un bot el cual funciona mediante una conversación la cual dependiendo de las preguntas o textos ingresados, provea una respuesta de manera automática.
-
-## Calendario de actividades
+### Calendario de actividades
 
 - [ ] Planeación (24/10/2020-28/11/2020)
 - Durante estos días se llevará a cabo la planeación del producto, desde como empezaremos la elaboración hasta la implementación de nuevas ideas ofrecidas por el equipo para así poder así poder tener un sistema organizado y eficiente.
@@ -42,6 +35,5 @@ Hunnigan es un bot conversacional de microsoft teams almacenada en la web para u
 - Se realizará la implementación a teams, se llevará a cabo el servicio de hosting con firebase y se almacenará con heroku, a su vez que se realizarán sus respectivas pruebas.
 
 - [ ] Release (09/01/2021)
-- Se realizaran los primeros 3 puntos redactados en la Beta1, se dará a cabo el lanzamiento oficial del bot y finalmente, nuestro equipo de trabajo llorará descontroladamente debido al fracaso del proyecto para posteriormente atentar contra nuestras propias vidas y darles un fin.
-
+- Se realizaran los primeros 3 puntos redactados en la Beta1 y se dará a cabo el lanzamiento oficial de la primera version del bot.
 
