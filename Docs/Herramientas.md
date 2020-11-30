@@ -15,6 +15,7 @@
  - Git & GitHub: Utilizado como nuestro controlador de versiones
  - Trello: Nuestra herramienta de organización, visualización y  monitoreo de las actividades realizadas o por realizar para el desarrollo del producto final.
  - Google drive: Es utilizado para compartir recursos que pueden ser modificados en tiempo real, un ejemplo de los materiales trabajados en Google Drive son: Pitch para la 1era entrega, Guión del Pitch.
- - Editor de código/texto:
+ 
+## Codificación
  - Visual Studio: Utilizado para el manejo de push/pull requests en GitHub mediante código.
  - Sublime text: Utilizado para la edición del código HTML de la página web.
