@@ -1,9 +1,9 @@
 # Hunnigan ✍🏼🤖
+> [Ver documentación.](./Docs/README.md)
 
 Hunnigan es una herramienta la cual te permite almacenar información como apuntes, recordatorios o cualquier información en forma de texto; además permite organizarla de una manera más rápida y eficiente.
 
 > Hunnigan es un proyecto escolar, te invitamos a [seguir el proyecto](https://github.com/Antonio-Cituk/Hunnigan/subscription) ⭐.
-> [Ver documentación.](./Docs/README.md)
 
 
 ## ¿Para quién es?
