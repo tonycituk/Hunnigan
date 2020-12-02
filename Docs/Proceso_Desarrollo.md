@@ -15,7 +15,7 @@ Para llevar a cabo el proceso antes menciona es importante definir cierto roles 
 ![Roles](./Materiales/roles.png)
 
 - **Product Owner:** Se encarga de hacer un vínculo con el cliente y definir requerimientos adecuadamente que satisfagan las necesidades del cliente. [Esteban Cimé](https://github.com/estecimo)
-- **Scrum Master:** Monitorea los avances, genera feedbak para el equipo, aumenta lo productividad del mismo y revisa el progreso continuo del proyecto. [Tony Cituk](https://github.com/Antonio-Cituk)
+- **Scrum Master:** Monitorea los avances, genera feedback para el equipo, aumenta lo productividad del mismo y revisa el progreso continuo del proyecto. [Tony Cituk](https://github.com/Antonio-Cituk)
 - **Development Teams:** La elite que se encarga de hacer realidad el producto de software en desarrollo:
   - [Esteban Cimé](https://github.com/estecimo)
   - [Tony Cituk](https://github.com/Antonio-Cituk)
