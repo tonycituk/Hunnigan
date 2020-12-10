@@ -1,5 +1,7 @@
 # ROADMAP de la Documentación
 
+![Kitten](./Materiales/logo3.png)
+
 - [Requerimientos](./requerimientos.md)
 - [Objetivos](./Objetivos.md)
 - [Herramientas](./Herramientas.md)
