@@ -16,4 +16,5 @@ La contribución invidual corresponde al porecentanje de aporte al proyecto.
 Se calcula de acuerdo a los puntos obtenidos de las actividades acordadas y los puntos de las asistencias a las reuniones.
 
 Las actividades son ponderadas en el rango 1 - 5, para determinar el puntaje obtenido por su realización. Las asistencias se califican con un 1 en caso de asistir y un 0 en el caso contrario de este modo el porcentaje de contribucion individual se calcula con la formula:
+![formula de Porcentaje de Contribucion Individual](./Materiales/formulaPorcentajeIndividual.png)
 
