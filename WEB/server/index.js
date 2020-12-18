@@ -38,8 +38,8 @@ const libretas = db.get('libretas')
 //Obtener todas las anotaciones
 app.get('/anotaciones', async (req, res) => {
   try {
-    const items = await anotaciones.find({});
-    res.json(items);
+    const anotacionesEncontradas = await anotaciones.find({});
+    res.json(anotacionesEncontradas);
   } catch (error) {
   }
 })
@@ -47,9 +47,10 @@ app.get('/anotaciones', async (req, res) => {
 //Insertar una anotacion
 app.post('/anotacion', async (req, res) => {
   try {
-    const value = await anotacionSchema.validateAsync(req.body);
-    const inserted = await anotaciones.insert(value);
-    res.json(inserted);
+    var anotacion = req.body;
+    const anotacionValidada = await anotacionSchema.validateAsync(anotacion);
+    const anotacionInsertada = await anotaciones.insert(anotacionValidada);
+    res.json(anotacionInsertada);
   } catch (error) {
   }
 })
