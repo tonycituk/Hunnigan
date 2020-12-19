@@ -18,3 +18,11 @@ Se calcula de acuerdo a los puntos obtenidos de las actividades acordadas y los 
 Las actividades son ponderadas en el rango 1 - 3, para determinar el puntaje obtenido por su realización. Las asistencias se califican con un 1 en caso de asistir y un 0 en el caso contrario de este modo el porcentaje de contribucion individual se calcula con la formula:
 ![formula de Porcentaje de Contribucion Individual](./Materiales/formulaPorcentajeIndividualFondoBlanco.jpg)
 
+## Porcentaje de contribución
+
+> Última actualización: DD/MM/YYYY
+
+|[![](https://github.com/CL-Nayib.png?size=50)](https://github.com/CL-Nayib)|[![](https://github.com/saulpalma26.png?size=50)](https://github.com/saulpalma26)|[![](https://github.com/erikpsanchez.png?size=50)](https://github.com/erikpsanchez)|[![](https://github.com/Antonio-Cituk.png?size=50)](https://github.com/Antonio-Cituk)|[![](https://github.com/estecimo.png?size=50)](https://github.com/estecimo)|
+|---|---|---|---|---|
+|<div align="center">[CL-Nayib](https://github.com/CL-Nayib)</div>|<div align="center">[saulpalma26](https://github.com/saulpalma26)</div>|<div align="center">[erikpsanchez](https://github.com/erikpsanchez)</div>|<div align="center">[Antonio-Cituk](https://github.com/Antonio-Cituk)</div>|<div align="center">[estecimo](https://github.com/estecimo)</div>|
+|<div align="center">%</div>|<div align="center">%</div>|<div align="center">%</div>|<div align="center">%</div>|<div align="center">%</div>|
