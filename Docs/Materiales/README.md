@@ -1,1 +1,1 @@
-## ¡👋🏽🌎! Esta es nuestra carpeta de recursos gráficos utilizados en nuestra documentación.
+## ¡👋🏽🌎! Esta es la carpeta de recursos gráficos utilizados la documentación.
