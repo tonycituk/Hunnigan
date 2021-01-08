@@ -54,9 +54,9 @@ El plan del proyecto inicia desde la [investigacion](./investigacion.md) del pos
 - [ ] Review and NextSteps (09/01/2021-13/01/2021)
 - Se hablará entre el equipo para la revisión del producto a su vez que se proporcionarán ideas para una implementación futura.
 
-- [ ] Beta1 (18/12/2020)
+- [ ] Beta1 (16/01/2021)
 - Se realizará la implementación a teams, se llevará a cabo el servicio de hosting con firebase y se almacenará con heroku, a su vez que se realizarán sus respectivas pruebas.
 
-- [ ] Release (09/01/2021)
+- [ ] Release (27/01/2021)
 - Se realizaran los primeros 3 puntos redactados en la Beta1 y se dará a cabo el lanzamiento oficial de la primera version del bot.
 
