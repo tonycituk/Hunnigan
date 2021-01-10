@@ -18,21 +18,21 @@
 ![Prototipogif](./Materiales/proto.gif)
 
 ![Prototipo1](./Materiales/Prototipo.jpg)
-## Composición
+## Inicio
 
 - Al igual que en el wireframe anterior, se le da una bienvenida o introducción a los usuarios a la web, para que el consumidor pueda familiarizarse con nuestro producto.
 
 ![Prototipo2](./Materiales/Prototipo2.jpg)
-## Composición 
+## Instalación
 
 - Se le dará una serie de intrucciones numeradas al usuario para la correcta y completa instalación del bot 
 
 ![Prototipo3](./Materiales/Prototipo3.jpg)
-## Composición 
+## Hunnigan
 
 - En este apartado de la página se dara una breve descripción al usuario sobre Hunnigan así como su historia y el por qué de su creación.
 
 ![Prototipo4](./Materiales/Prototipo4.jpg)
-## Composición 
+## C3P2 Team
 
 - En este apartado de la página, el usuario podra visualizar las redes de nuestro equipo de trabajo así como también nuestro origen y nuestra historia como equipo.
