@@ -13,6 +13,8 @@
 - [ ] Texto 
 - El wireframe contiene texto el cual en la web oficial será referente a nuestro proyecto y dando una bienvenida a el.
 
+
+### Prototipo Visual
 ![Prototipogif](./Materiales/proto.gif)
 
 ![Prototipo1](./Materiales/Prototipo.jpg)
