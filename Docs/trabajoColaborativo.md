@@ -20,7 +20,7 @@ Las actividades son ponderadas en el rango 1 - 3, para determinar el puntaje obt
 
 ## Porcentaje de contribución
 
-> Última actualización: DD/MM/YYYY
+> Última actualización: 11/01/2021
 
 |[![](https://github.com/CL-Nayib.png?size=50)](https://github.com/CL-Nayib)|[![](https://github.com/saulpalma26.png?size=50)](https://github.com/saulpalma26)|[![](https://github.com/erikpsanchez.png?size=50)](https://github.com/erikpsanchez)|[![](https://github.com/Antonio-Cituk.png?size=50)](https://github.com/Antonio-Cituk)|[![](https://github.com/estecimo.png?size=50)](https://github.com/estecimo)|
 |---|---|---|---|---|
