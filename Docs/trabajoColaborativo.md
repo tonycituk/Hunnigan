@@ -25,4 +25,4 @@ Las actividades son ponderadas en el rango 1 - 3, para determinar el puntaje obt
 |[![](https://github.com/CL-Nayib.png?size=50)](https://github.com/CL-Nayib)|[![](https://github.com/saulpalma26.png?size=50)](https://github.com/saulpalma26)|[![](https://github.com/erikpsanchez.png?size=50)](https://github.com/erikpsanchez)|[![](https://github.com/Antonio-Cituk.png?size=50)](https://github.com/Antonio-Cituk)|[![](https://github.com/estecimo.png?size=50)](https://github.com/estecimo)|
 |---|---|---|---|---|
 |<div align="center">[CL-Nayib](https://github.com/CL-Nayib)</div>|<div align="center">[saulpalma26](https://github.com/saulpalma26)</div>|<div align="center">[erikpsanchez](https://github.com/erikpsanchez)</div>|<div align="center">[Antonio-Cituk](https://github.com/Antonio-Cituk)</div>|<div align="center">[estecimo](https://github.com/estecimo)</div>|
-|<div align="center">%</div>|<div align="center">%</div>|<div align="center">%</div>|<div align="center">%</div>|<div align="center">%</div>|
+|<div align="center">18.9%</div>|<div align="center">19.7%</div>|<div align="center">22.8%</div>|<div align="center">21.3%</div>|<div align="center">17.3%</div>|
