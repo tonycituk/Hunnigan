@@ -60,3 +60,20 @@ El plan del proyecto inicia desde la [investigacion](./investigacion.md) del pos
 - [ ] Release (09/01/2021)
 - Se realizaran los primeros 3 puntos redactados en la Beta1 y se dará a cabo el lanzamiento oficial de la primera version del bot.
 
+### Changelog
+
+- [ ] Sprint 02 
+- Se realizó un cambio en la fecha de finalización de este Sprint (Debiendo de finalizar el 28/11/2020 y este siendo cambiado a 12/12/2020)debido a el surgimiemto de un problema de tiempo de disponibilidad para el proyecto.
+
+- [ ] Sprint 03
+- La modificación de la fecha final de este Sprint (12/12/2020 siendo cambiada al 09/01/2021) Se vio causada al aplazamiento del sprint anterior
+
+- [ ] Beta1
+-  Se le dio un cambio a la fecha de lanzamiento de la primera beta de Hunnigan debido a que la fecha anterior (18/12/2020) resultaba conflictiba para la finalización de actividades del equipo de trabajo.
+
+- [ ] Sprint 04 
+- La fecha de finalización de este sprint fue aplazada debido a un choque con las fechas de los sprints anteriores.
+
+- [ ] Release 
+- Como producto de los cambios realizados en las fechas de los sprints y beta anteriores, la fecha de lanzamiento de Hunnigan se tuvo que ver aplazada.
+
