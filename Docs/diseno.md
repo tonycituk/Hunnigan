@@ -1,7 +1,7 @@
 # Diseño
 ## Wireframe
 ![Wireframe](./Materiales/wireframe1_WebApp.png)
-## ¿Cómo se compone nuestro Wireframe?
+### ¿Cómo se compone nuestro Wireframe?
 
 - [ ] Imagen del logo
 - Al ser nuestro producto y el tema de la página, se proyecta nuestro logo oficial de Hunnigan.
