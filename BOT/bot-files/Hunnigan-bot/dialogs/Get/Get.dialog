@@ -1,0 +1,69 @@
+{
+  "$kind": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "id": "Uu3Bfn",
+    "name": "ObtenerAnotacion",
+    "description": ""
+  },
+  "autoEndDialog": true,
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$kind": "Microsoft.OnBeginDialog",
+      "$designer": {
+        "name": "Requests",
+        "description": "",
+        "id": "FCiD4H"
+      },
+      "actions": [
+        {
+          "$kind": "Microsoft.HttpRequest",
+          "$designer": {
+            "id": "ish8Ir"
+          },
+          "method": "GET",
+          "url": "https://hunnigan-dev.herokuapp.com/anotaciones",
+          "resultProperty": "dialog.get"
+        },
+        {
+          "$kind": "Microsoft.SetProperty",
+          "$designer": {
+            "id": "QkOS28"
+          },
+          "property": "dialog.anotaciones",
+          "value": "=dialog.get.content"
+        },
+        {
+          "$kind": "Microsoft.Foreach",
+          "$designer": {
+            "id": "j94Ieb"
+          },
+          "index": "dialog.foreach.index",
+          "value": "dialog.foreach.anotacion",
+          "itemsProperty": "dialog.anotaciones",
+          "actions": [
+            {
+              "$kind": "Microsoft.SetProperty",
+              "$designer": {
+                "id": "JH18Ov"
+              },
+              "property": "dialog.displayNumber",
+              "value": "=dialog.foreach.index +1"
+            },
+            {
+              "$kind": "Microsoft.SendActivity",
+              "$designer": {
+                "id": "CFQt4h"
+              },
+              "activity": "${SendActivity_CFQt4h()}"
+            }
+          ]
+        }
+      ],
+      "condition": "="
+    }
+  ],
+  "generator": "Get.lg",
+  "recognizer": "Get.lu.qna",
+  "id": "Get"
+}

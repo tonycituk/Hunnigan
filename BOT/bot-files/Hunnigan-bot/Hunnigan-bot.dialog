@@ -42,7 +42,44 @@
                 }
               ]
             }
-          ]
+          ],
+          "value": "dialog.foreach.value"
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "egsO2O",
+        "name": "post"
+      },
+      "intent": "post",
+      "actions": [
+        {
+          "$kind": "Microsoft.BeginDialog",
+          "$designer": {
+            "id": "1ZJCZQ"
+          },
+          "activityProcessed": true,
+          "dialog": "AgregarAnotacion"
+        }
+      ]
+    },
+    {
+      "$kind": "Microsoft.OnIntent",
+      "$designer": {
+        "id": "HuIiGx",
+        "name": "get"
+      },
+      "intent": "get",
+      "actions": [
+        {
+          "$kind": "Microsoft.BeginDialog",
+          "$designer": {
+            "id": "ZGRnOP"
+          },
+          "activityProcessed": true,
+          "dialog": "Get"
         }
       ]
     }
@@ -50,5 +87,17 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/BotFramework-Composer/stable/Composer/packages/server/schemas/sdk.schema",
   "generator": "Hunnigan-bot.lg",
   "id": "Hunnigan-bot",
-  "recognizer": "Hunnigan-bot.lu.qna"
+  "recognizer": {
+    "$kind": "Microsoft.RegexRecognizer",
+    "intents": [
+      {
+        "intent": "post",
+        "pattern": "(?i)(?:agregar|add|nueva|nuevo) (?<name>.*):(?<content>.*)"
+      },
+      {
+        "intent": "get",
+        "pattern": "(?i)(?:obtener|consulta|muestra)"
+      }
+    ]
+  }
 }

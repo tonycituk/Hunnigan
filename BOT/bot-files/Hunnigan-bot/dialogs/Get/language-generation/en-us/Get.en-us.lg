@@ -1,0 +1,7 @@
+[import](common.lg)
+
+# SendActivity_CFQt4h()
+[ThumbnailCard
+    title = ${dialog.displayNumber}.- ${dialog.foreach.anotacion.name}
+    text = ${dialog.foreach.anotacion.content}
+]

@@ -1,0 +1,84 @@
+{
+  "$kind": "Microsoft.AdaptiveDialog",
+  "$designer": {
+    "id": "MafqRo",
+    "name": "AgregarAnotacion",
+    "description": "Se realiza solicitud agregar al servidor de peticiones"
+  },
+  "autoEndDialog": true,
+  "defaultResultProperty": "dialog.result",
+  "triggers": [
+    {
+      "$kind": "Microsoft.OnBeginDialog",
+      "$designer": {
+        "name": "BeginDialog",
+        "description": "",
+        "id": "Cp4QVB"
+      },
+      "actions": [
+        {
+          "$kind": "Microsoft.SetProperties",
+          "$designer": {
+            "id": "XYJWEm"
+          },
+          "assignments": [
+            {
+              "property": "dialog.anotacion.name",
+              "value": "=@name"
+            },
+            {
+              "property": "dialog.anotacion.content",
+              "value": "=@content"
+            }
+          ]
+        },
+        {
+          "$kind": "Microsoft.SetProperty",
+          "$designer": {
+            "id": "C8vSxK"
+          },
+          "property": "dialog.anotacion.httpbody",
+          "value": "{\"name\":\"${dialog.anotacion.name}\",\"content\":\"${dialog.anotacion.content}\",\"libreta\":\"vengodelbot\"}"
+        },
+        {
+          "$kind": "Microsoft.HttpRequest",
+          "$designer": {
+            "id": "MuhaZC"
+          },
+          "method": "POST",
+          "url": "https://hunnigan-dev.herokuapp.com/anotacion",
+          "body": "${dialog.anotacion.httpbody}",
+          "resultProperty": "dialog.resultado"
+        },
+        {
+          "$kind": "Microsoft.IfCondition",
+          "$designer": {
+            "id": "gJvNmu"
+          },
+          "condition": "dialog.resultado.statusCode==200",
+          "actions": [
+            {
+              "$kind": "Microsoft.SendActivity",
+              "$designer": {
+                "id": "mZIv65"
+              },
+              "activity": "${SendActivity_mZIv65()}"
+            }
+          ],
+          "elseActions": [
+            {
+              "$kind": "Microsoft.SendActivity",
+              "$designer": {
+                "id": "5oGRof"
+              },
+              "activity": "${SendActivity_5oGRof()}"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "generator": "AgregarAnotacion.lg",
+  "recognizer": "AgregarAnotacion.lu.qna",
+  "id": "AgregarAnotacion"
+}
