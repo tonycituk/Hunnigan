@@ -6,6 +6,7 @@
 - [Objetivos](./Objetivos.md)
 - [Herramientas](./Herramientas.md)
 - [Proceso de desarrollo](./Proceso_Desarrollo.md)
+- [Verificación y Validación](./V&V.md)
 - [Bitácoras](./bitacoras.md)
 - [Trabajo colaborativo & contribución individual](./trabajoColaborativo.md)
 - [Diseño](./diseno.md)
