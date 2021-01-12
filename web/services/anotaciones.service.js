@@ -1,6 +1,8 @@
 'use-strict';
 var anotaciones;
 
+let URL = "https://hunnigan-dev.herokuapp.com/";
+
 //Obtener todas las anotaciones
 function getAllAnotaciones() {
 
