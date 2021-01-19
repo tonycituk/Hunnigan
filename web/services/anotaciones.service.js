@@ -11,13 +11,47 @@ function getAllAnotaciones() {
 }
 
 //Agregar una anotacion
-function addAnotacion() {
-
+function addAnotacion(name, content, libreta) {
+    fetch(URL+ 'anotacion', {
+    method: 'POST',
+    headers: {
+        'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+        name: name, 
+        content: content,
+        libreta: libreta
+    }),
+})
+    .then(response => response.json())
+    .then(data => {
+    console.log('Success:', data);
+})
+    .catch((error) => {
+    console.error('Error:', error);
+});
 }
 
 //Actualizar una anotacion
-function updateAnotacion() {
-
+function updateAnotacion(id, name, content, libreta) {
+    fetch(URL+ 'anotacion/' + id, {
+        method: 'PUT',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+            name: name, 
+            content: content,
+            libreta: libreta
+        }),
+    })
+        .then(response => response.json())
+        .then(data => {
+        console.log('Success:', data);
+    })
+        .catch((error) => {
+        console.error('Error:', error);
+    });
 }
 
 //Eliminar una anotacion
